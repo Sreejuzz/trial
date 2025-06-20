@@ -1,2 +1,1 @@
-# trial
-new
+this is my 2nd git repo
